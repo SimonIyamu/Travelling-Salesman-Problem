@@ -1,5 +1,5 @@
 # Travelling-Salesman-Problem
-Implementation of a genetic algorithm to solve the tsp. 
+Implementation of a genetic algorithm to solve the tsp.  
 (This project was developed on my first semester and thus the code is not really well-structured.)
 
 DESCRIPTION  
