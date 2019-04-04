@@ -1,6 +1,6 @@
 # Travelling-Salesman-Problem
 Implementation of a genetic algorithm to solve the tsp.  
-(This project was developed on my first semester and thus the code is not really well-structured.)
+(This project was developed on my first semester and thus the code is not well-structured.)
 
 DESCRIPTION  
 	-c		: Reads one more path and checks if its accurate. If yes, its length is printed.  
